@@ -97,7 +97,7 @@ align-items: center;
 justify-content: center;
 gap: 05px;
 border-right: 1px solid;
-border-image: linear-gradient(#727275, #2c2c31)1 ;
+border-image: linear-gradient(#a0a0a0, #212529)1 ;
 }
 
 aside * {
